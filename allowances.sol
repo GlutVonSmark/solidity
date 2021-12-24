@@ -4,7 +4,11 @@ pragma solidity >=0.7.0 <0.9.0;
 import "./2_Owner.sol";
 
 /* TODO: save to github */
+/* TODO: move allownace to a seprate file */
 /* TODO: deploy this to testnet and build UI for this */
+/* TODO: add ability for owner to change default allowance */
+/* TODO: list of all transactions */
+/* TODO: for owner ability do display all allownces */
 
 contract Allowance is Owner {
     
